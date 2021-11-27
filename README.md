@@ -10,3 +10,6 @@ The technical details of the model architectures, accuracies, and helper functio
 
 # PoseModule.py
 This module is still under development. The intention to develop this module is to have better, easy import to the functions for developing solutions in the future.
+
+![PoseEstimation-Mediapipe gif](https://user-images.githubusercontent.com/61786557/143673861-b311e85c-dd15-4211-8494-4dd48e28a787.gif)
+
